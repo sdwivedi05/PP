@@ -5,3 +5,5 @@ def div (a, b):
 
 
 div(10, 2)
+
+print("Good")
